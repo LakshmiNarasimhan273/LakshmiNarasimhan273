@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://i.pinimg.com/564x/1d/c0/09/1dc00941710c203b85197a30ff21611b.jpg)
+
 <h1 align="center">Hi 👋, I'm Lakshmi Narasimhan</h1>
 <h3 align="center">A passionate React developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" />
