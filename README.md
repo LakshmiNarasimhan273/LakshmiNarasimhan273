@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Lakshmi Narasimhan</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/3281732/screenshots/6552930/ef066617-ce4e-45c9-ae22-1af21711119c.jpeg?resize=800x600&vertical=center" />
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/891352/screenshots/4117198/media/405b625bbe36e631c40f22a89e32b06b.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshminarasimhan273&label=Profile%20views&color=0e75b6&style=flat" alt="lakshminarasimhan273" /> </p>
 
