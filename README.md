@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **lakshminarasimhan511@gmail.com**
 
-- 📄 Know about my experiences [https://bronze-kacy-2.tiiny.site](https://bronze-kacy-2.tiiny.site)
-
 - ⚡ Fun fact **If life were a quiz, I'd be the answer key**
 
 <h3 align="left">Connect with me:</h3>
