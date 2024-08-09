@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshminarasimhan273&label=Profile%20views&color=0e75b6&style=flat" alt="lakshminarasimhan273" /> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **MERN Projects**
 
 - 🌱 I’m currently learning **Amazon Web Service**
 
