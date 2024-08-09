@@ -13,11 +13,11 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/](https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/)
 
-- 💬 Ask me about **React, JavaScript and their frameworks**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **lakshminarasimhan511@gmail.com**
 
-- ⚡ Fun fact **If life were a quiz, I'd be the answer key**
+- ⚡ Fun fact **If web design were a magic trick, I'd be the magician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
