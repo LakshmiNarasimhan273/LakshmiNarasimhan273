@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lakshmi-narasimhan-portfolio.web.app/](https://lakshmi-narasimhan-portfolio.web.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/pulse/self-love-respect-lakshmi-narasimhan--zmt8c/?trackingId=4eX4DeLeTlKSyQydvQ6cuA%3D%3D](https://www.linkedin.com/pulse/self-love-respect-lakshmi-narasimhan--zmt8c/?trackingId=4eX4DeLeTlKSyQydvQ6cuA%3D%3D)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/](https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/)
 
 - 💬 Ask me about **React, JavaScript and their frameworks**
 
