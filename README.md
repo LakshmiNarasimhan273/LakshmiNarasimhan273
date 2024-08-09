@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Service**
 
-- 👨‍💻 All of my projects are available at [https://lakshmi-narasimhan-portfolio-new.netlify.app/](https://lakshmi-narasimhan-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://lakshmi-narasimhan-portfolio.web.app/](https://lakshmi-narasimhan-portfolio.web.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/self-love-respect-lakshmi-narasimhan--zmt8c/?trackingId=4eX4DeLeTlKSyQydvQ6cuA%3D%3D](https://www.linkedin.com/pulse/self-love-respect-lakshmi-narasimhan--zmt8c/?trackingId=4eX4DeLeTlKSyQydvQ6cuA%3D%3D)
 
