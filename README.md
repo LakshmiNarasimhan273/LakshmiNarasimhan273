@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/36/8c/96/368c967df4cdb8e288b8cf19eed82707.jpg" />
 
-<p align="left"> <img src="[https://i.pinimg.com/564x/36/8c/96/368c967df4cdb8e288b8cf19eed82707.jpg]" alt="lakshminarasimhan273" /> </p>
 
 - 🔭 I’m currently working on **MERN Projects**
 
