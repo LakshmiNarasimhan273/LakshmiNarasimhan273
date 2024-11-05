@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/36/8c/96/368c967df4cdb8e288b8cf19eed82707.jpg" />
 
 
-- 🔭 I’m currently working on **Technical Trainer**
+- 🔭 I’m currently working as a **Technical Trainer - Fullstack Web development**
 
-- 🌱 I’m currently learning **Angular for MEAN Stack 🎉**
+- 🌱 I’m currently learning **Web technologies 🎉**
 
 - 👨‍💻 All of my projects are available at [https://lakshmi-narasimhan-portfolio.web.app/](https://lakshmi-narasimhan-portfolio.web.app/)
 
