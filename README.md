@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Technical Trainer - Fullstack Web development**
 
-- 🌱 I’m currently learning **Web technologies 🎉**
+- 🌱 I’m currently working **Web technologies 🎉**
 
 - 👨‍💻 All of my projects are available at [https://lakshmi-narasimhan-portfolio.web.app/](https://lakshmi-narasimhan-portfolio.web.app/)
 
