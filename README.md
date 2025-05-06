@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*SazB8drLx74W-bFBqag9zA.gif)](https://lakshmi-narasimhan-portfolio.web.app/)
 <h1 align="center">Hi 👋, I'm Lakshmi Narasimhan</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/36/8c/96/368c967df4cdb8e288b8cf19eed82707.jpg" />
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" />
 
 
 - 🔭 I’m currently working as a **Technical Trainer - Fullstack Web development**
