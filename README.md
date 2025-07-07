@@ -50,8 +50,9 @@
 
 #### 🏆 GitHub Trophy Board
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshminarasimhan273&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshminarasimhan273&row=2&column=3&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
+
 
 
 #### 🔥 GitHub Streak Stats
