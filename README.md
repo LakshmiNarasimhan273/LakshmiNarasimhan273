@@ -50,7 +50,7 @@
 
 #### 🏆 GitHub Trophy Board
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshminarasimhan273&theme=radical&margin-w=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshminarasimhan273&theme=onedark&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 #### 🔥 GitHub Streak Stats
@@ -80,7 +80,6 @@
 
 ---
 
-### 💼 Let's Build Something Exceptional Together!
 <p align="center">
   <b>"Code is not just syntax, it's strategy."</b><br/>
   <i>Let's architect impactful products, one commit at a time.</i>
