@@ -70,9 +70,18 @@
 
 ---
 
-### 🧠 Additional Enhancements (Strategically Optional)
+### 📽 Portfolio Walkthrough Video
 
-#### 📽 Portfolio Walkthrough (Optional)
-> Upload a video to YouTube walking through your portfolio and projects. Embed like below:
-```md
-[![Portfolio Walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+<p align="center">
+  <a href="https://youtu.be/n-zDrsJmNK0?si=FxDETmrWC9Q9jks1" target="_blank">
+    <img src="https://img.youtube.com/vi/n-zDrsJmNK0/0.jpg" alt="Lakshmi Narasimhan Portfolio Walkthrough" width="600"/>
+  </a>
+</p>
+
+---
+
+### 💼 Let's Build Something Exceptional Together!
+<p align="center">
+  <b>"Code is not just syntax, it's strategy."</b><br/>
+  <i>Let's architect impactful products, one commit at a time.</i>
+</p>
