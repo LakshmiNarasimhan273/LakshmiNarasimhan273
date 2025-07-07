@@ -53,6 +53,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lakshminarasimhan273&theme=onedark&margin-w=15" alt="GitHub Trophies" />
 </p>
 
+
 #### 🔥 GitHub Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lakshminarasimhan273&theme=dark&hide_border=true" alt="GitHub Streak" />
