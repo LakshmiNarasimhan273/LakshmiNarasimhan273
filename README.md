@@ -49,6 +49,7 @@
 ### 📊 GitHub Metrics
 
 #### 🏆 GitHub Trophy Board
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lakshminarasimhan273&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakshminarasimhan273&theme=radical&margin-w=15&no-bg=true" />
 </p>
