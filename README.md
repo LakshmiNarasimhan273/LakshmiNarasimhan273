@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*SazB8drLx74W-bFBqag9zA.gif)](https://lakshmi-narasimhan-portfolio.web.app/)
 
 <h1 align="center">👋 Hello, I'm Lakshmi Narasimhan</h1>
-<h3 align="center">🚀 Full Stack Developer & MERN Stack Mentor from India</h3>
+<h3 align="center">🚀 NodeJS Developer & MERN Stack Mentor from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=NodeJS+Lead+%7C+Full+Stack+Mentor+%7C+Tech+Evangelist;Delivering+Impact+Through+Code+%26+Mentorship;Turning+Tech+Complexities+Into+Clarity+%26+Creativity" alt="Typing SVG" />
