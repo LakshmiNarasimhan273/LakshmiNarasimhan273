@@ -13,12 +13,12 @@
 
 - 💼 I’m currently working as a **MERN Stack Mentor & Node.js Developer**
 - 🌐 Passionate about **cutting-edge web technologies and scalable architecture**
-- 🧠 Focused on **teaching, mentoring, and product engineering**
+- 🧠 Focused on **Mentoring, Developing, R&D Expert**
 - 📌 Portfolio: [lakshmi-narasimhan-portfolio.web.app](https://lakshmi-narasimhan-portfolio.web.app/)
 - ✍️ Technical Articles: [LinkedIn Articles](https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/)
 - 💬 Ask me about **React, Node, Express, MongoDB, Web Architecture, and Mentoring Strategies**
 - 📩 Contact: **lakshminarasimhan511@gmail.com**
-- 🎯 Fun Insight: *If web design were a magic trick, I'd be the magician!*
+- 🎯 Fun Insight: *Middleware magician with a side of async sauce.*
 
 ---
 
