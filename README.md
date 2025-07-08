@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full Stack Developer & MERN Stack Mentor from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=MERN+Stack+Specialist+%7C+Full+Stack+Mentor+%7C+Tech+Evangelist;Delivering+Impact+Through+Code+%26+Mentorship;Turning+Tech+Complexities+Into+Clarity+%26+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=NodeJS+Lead+%7C+Full+Stack+Mentor+%7C+Tech+Evangelist;Delivering+Impact+Through+Code+%26+Mentorship;Turning+Tech+Complexities+Into+Clarity+%26+Creativity" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" />
