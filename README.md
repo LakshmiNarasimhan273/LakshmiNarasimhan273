@@ -56,6 +56,16 @@
 
 ### 📊 GitHub Metrics
 
+#### 🗂️ Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshminarasimhan273&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+#### 📊 Contribution Chart (GitHub Snake Animation)
+<p align="center">
+  <img src="https://github.com/lakshminarasimhan273/lakshminarasimhan273/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 #### 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshminarasimhan273&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
