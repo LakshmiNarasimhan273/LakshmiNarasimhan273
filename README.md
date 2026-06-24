@@ -71,7 +71,7 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LakshmiNarasimhan273&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&icon_color=7AA2F7&text_color=C0CAF5&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LakshmiNarasimhan273&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&icon_color=7AA2F7&text_color=C0CAF5&include_all_commits=true"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshmiNarasimhan273&theme=tokyonight&hide_border=true&background=0D1117&ring=BB9AF7&fire=F7768E&currStreakLabel=BB9AF7"/>
 
 <br/>
@@ -84,6 +84,8 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 
 </div>
 
+> ℹ️ **Why "Total Commits" may look low:** this card only counts commits on **public** repos by default. The `count_private` flag does nothing on the shared `github-readme-stats.vercel.app` domain — it only works if you self-host your own instance with a personal access token. If most of your work is in private repos, the number here will always undercount your real activity. Fix below ⬇️
+
 <br/>
 
 ## 🏆 Achievements & Contributions
@@ -93,6 +95,8 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 <img src="https://github-profile-trophy.vercel.app/?username=LakshmiNarasimhan273&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 
 </div>
+
+> ℹ️ **If trophies don't render:** either (a) the free `github-profile-trophy.vercel.app` service is temporarily down — common, it has no uptime guarantee — or (b) your account hasn't earned enough public activity yet to unlock trophy tiers (stars received, PRs merged, issues closed, followers, etc. all factor in). Test the URL directly in a browser tab; if it loads there but not on GitHub, it's a caching issue — push any small commit to your profile repo to force a refresh.
 
 - 📦 Active across **MERN-stack repositories** spanning dashboards, CRUD systems, and full-stack apps
 - 🔥 Consistent contribution history — see live streak & activity graphs above
@@ -109,11 +113,38 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 
 </div>
 
-> ⚙️ **One-time setup needed** — this snake animates your real contribution graph, but it needs a GitHub Action in your profile repo to generate it. Steps:
-> 1. In your `LakshmiNarasimhan273/LakshmiNarasimhan273` repo, create `.github/workflows/snake.yml`
-> 2. Use the action from [`Platane/snk`](https://github.com/Platane/snk) (copy its example workflow)
-> 3. It auto-generates the SVG into an `output` branch, which is what the image above points to
-> Until that's set up, this image will show broken — totally normal, just means the Action hasn't run yet.
+> ⚙️ **This needs a one-time setup before it appears — here's exactly how:**
+> 1. In your `LakshmiNarasimhan273/LakshmiNarasimhan273` repo, create the file `.github/workflows/snake.yml`
+> 2. Paste this in:
+> ```yaml
+> name: generate snake animation
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches: [ main ]
+> jobs:
+>   generate:
+>     permissions:
+>       contents: write
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> 3. Commit it, then go to the **Actions** tab → select the workflow → **Run workflow** (don't wait for the cron schedule the first time)
+> 4. Once it finishes (green check), an `output` branch appears in your repo with the SVG — that's what the image above pulls from. It'll go from broken to working the moment that branch exists.
 
 <br/>
 
