@@ -13,6 +13,11 @@
 <a href="https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/"><img src="https://img.shields.io/badge/Articles-1A1B26?style=for-the-badge&logo=readme&logoColor=BB9AF7"/></a>
 <a href="mailto:lakshminarasimhan511@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E"/></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=LakshmiNarasimhan273&label=Profile%20Views&color=7AA2F7&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/LakshmiNarasimhan273?label=Followers&style=flat-square&color=BB9AF7&labelColor=1A1B26"/>
+
 </div>
 
 <br/>
@@ -32,6 +37,23 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 - 🧠 Wearing three hats daily: **Mentor · Developer · R&D Explorer**
 - ✍️ Writing technical breakdowns on [LinkedIn Articles](https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/)
 - 📩 Reach me at **lakshminarasimhan511@gmail.com**
+
+> 🟢 **Currently:** Mentoring full-stack devs · Building scalable MERN systems
+> 🌱 **Learning:** System design & cloud-native deployment patterns
+> 💬 **Open to:** Freelance mentorship, collaborations, and interesting backend problems
+
+<br/>
+
+## 📌 Pinned Work
+
+<div align="center">
+
+<a href="https://github.com/LakshmiNarasimhan273/Employee_Status_Management_Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshmiNarasimhan273&repo=Employee_Status_Management_Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=C0CAF5&icon_color=7AA2F7"/>
+
+</div>
+
+> 💡 Swap the repo name above for any of your other top projects — the same pin-card URL works for each, just change `repo=`.
 
 <br/>
 
@@ -79,6 +101,22 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LakshmiNarasimhan273/LakshmiNarasimhan273/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> ⚙️ **One-time setup needed** — this snake animates your real contribution graph, but it needs a GitHub Action in your profile repo to generate it. Steps:
+> 1. In your `LakshmiNarasimhan273/LakshmiNarasimhan273` repo, create `.github/workflows/snake.yml`
+> 2. Use the action from [`Platane/snk`](https://github.com/Platane/snk) (copy its example workflow)
+> 3. It auto-generates the SVG into an `output` branch, which is what the image above points to
+> Until that's set up, this image will show broken — totally normal, just means the Action hasn't run yet.
+
+<br/>
+
 ## 📽 Portfolio Walkthrough
 
 <div align="center">
@@ -97,5 +135,9 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 
 <b>"Code is not just syntax, it's strategy."</b><br/>
 <i>Let's architect impactful products, one commit at a time.</i>
+
+<br/><br/>
+
+<b><i>"Learn more. Grow more."</i></b>
 
 </div>
