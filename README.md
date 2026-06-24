@@ -42,20 +42,18 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 > 🌱 **Learning:** System design & cloud-native deployment patterns
 > 💬 **Open to:** Freelance mentorship, collaborations, and interesting backend problems
 
+
 <br/>
 
-## 📌 Pinned Work
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="https://github.com/LakshmiNarasimhan273/Employee_Status_Management_Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshmiNarasimhan273&repo=Employee_Status_Management_Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=C0CAF5&icon_color=7AA2F7"/>
+<img src="https://raw.githubusercontent.com/LakshmiNarasimhan273/LakshmiNarasimhan273/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-> 💡 Swap the repo name above for any of your other top projects — the same pin-card URL works for each, just change `repo=`.
-
-<br/>
+><br/>
 
 ## 🛠️ Tech Stack
 
@@ -84,7 +82,6 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 
 </div>
 
-> ℹ️ **Why "Total Commits" may look low:** this card only counts commits on **public** repos by default. The `count_private` flag does nothing on the shared `github-readme-stats.vercel.app` domain — it only works if you self-host your own instance with a personal access token. If most of your work is in private repos, the number here will always undercount your real activity. Fix below ⬇️
 
 <br/>
 
@@ -92,11 +89,14 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LakshmiNarasimhan273&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+<img src="https://img.shields.io/github/stars/LakshmiNarasimhan273?style=for-the-badge&color=BB9AF7&labelColor=1A1B26&logo=star&logoColor=BB9AF7&label=Total%20Stars"/>
+<img src="https://img.shields.io/github/followers/LakshmiNarasimhan273?style=for-the-badge&color=7AA2F7&labelColor=1A1B26&logo=github&logoColor=7AA2F7&label=Followers"/>
+<br/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1A1B26&color=F7768E&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/LakshmiNarasimhan273"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1A1B26&color=9ECE6A&label=GitHub%20Member%20Since&query=created_at&url=https://api.github.com/users/LakshmiNarasimhan273"/>
 
 </div>
 
-> ℹ️ **If trophies don't render:** either (a) the free `github-profile-trophy.vercel.app` service is temporarily down — common, it has no uptime guarantee — or (b) your account hasn't earned enough public activity yet to unlock trophy tiers (stars received, PRs merged, issues closed, followers, etc. all factor in). Test the URL directly in a browser tab; if it loads there but not on GitHub, it's a caching issue — push any small commit to your profile repo to force a refresh.
 
 - 📦 Active across **MERN-stack repositories** spanning dashboards, CRUD systems, and full-stack apps
 - 🔥 Consistent contribution history — see live streak & activity graphs above
@@ -105,48 +105,6 @@ portfolio:   lakshmi-narasimhan-portfolio.web.app
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LakshmiNarasimhan273/LakshmiNarasimhan273/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> ⚙️ **This needs a one-time setup before it appears — here's exactly how:**
-> 1. In your `LakshmiNarasimhan273/LakshmiNarasimhan273` repo, create the file `.github/workflows/snake.yml`
-> 2. Paste this in:
-> ```yaml
-> name: generate snake animation
-> on:
->   schedule:
->     - cron: "0 */12 * * *"
->   workflow_dispatch:
->   push:
->     branches: [ main ]
-> jobs:
->   generate:
->     permissions:
->       contents: write
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> 3. Commit it, then go to the **Actions** tab → select the workflow → **Run workflow** (don't wait for the cron schedule the first time)
-> 4. Once it finishes (green check), an `output` branch appears in your repo with the SVG — that's what the image above pulls from. It'll go from broken to working the moment that branch exists.
-
-<br/>
 
 ## 📽 Portfolio Walkthrough
 
