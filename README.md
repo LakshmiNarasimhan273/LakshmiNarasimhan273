@@ -1,84 +1,101 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*SazB8drLx74W-bFBqag9zA.gif)](https://lakshmi-narasimhan-portfolio.web.app/)
+<div align="center">
 
-<h1 align="center">👋 Hello, I'm Lakshmi Narasimhan</h1>
-<h3 align="center">🚀 NodeJS Developer & MERN Stack Mentor from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Lakshmi%20Narasimhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=NodeJS%20Lead%20%7C%20Full%20Stack%20Mentor%20%7C%20Tech%20Evangelist&descAlignY=58&descAlign=50" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=NodeJS+Lead+%7C+Full+Stack+Mentor+%7C+Tech+Evangelist;Delivering+Impact+Through+Code+%26+Mentorship;Turning+Tech+Complexities+Into+Clarity+%26+Creativity" alt="Typing SVG" />
-</p>
+<a href="https://lakshmi-narasimhan-portfolio.web.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C792EA&center=true&vCenter=true&width=750&lines=Delivering+Impact+Through+Code+%26+Mentorship;Turning+Tech+Complexities+Into+Clarity+%26+Creativity;Middleware+magician+with+a+side+of+async+sauce+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" />
+<br/>
 
-### 👨‍💻 About Me
+<a href="https://lakshmi-narasimhan-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lakshmi-narasimhan-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=for-the-badge&logo=linkedin&logoColor=7AA2F7"/></a>
+<a href="https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/"><img src="https://img.shields.io/badge/Articles-1A1B26?style=for-the-badge&logo=readme&logoColor=BB9AF7"/></a>
+<a href="mailto:lakshminarasimhan511@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E"/></a>
 
-- 💼 I’m currently working as a **MERN Stack Mentor & Node.js Developer**
-- 🌐 Passionate about **cutting-edge web technologies and scalable architecture**
-- 🧠 Focused on **Mentoring, Developing, R&D Expert**
-- 📌 Portfolio: [lakshmi-narasimhan-portfolio.web.app](https://lakshmi-narasimhan-portfolio.web.app/)
-- ✍️ Technical Articles: [LinkedIn Articles](https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/)
-- 💬 Ask me about **React, Node, Express, MongoDB, Web Architecture, and Mentoring Strategies**
-- 📩 Contact: **lakshminarasimhan511@gmail.com**
-- 🎯 Fun Insight: *Middleware magician with a side of async sauce.*
+</div>
 
----
+<br/>
 
-### 🌐 Connect With Me
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lakshmi-narasimhan-developer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:lakshminarasimhan511@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
-  </a>
-</p>
+```yaml
+role:        MERN Stack Mentor & Node.js Developer
+focus:       Scalable web architecture, cutting-edge stack design
+strengths:   Mentoring · Development · R&D
+ask_me_about: [React, Node, Express, MongoDB, Web Architecture, Mentoring Strategies]
+portfolio:   lakshmi-narasimhan-portfolio.web.app
+```
 
----
+- 💼 Currently building and mentoring with the **MERN stack**
+- 🌐 Passionate about **scalable architecture** and modern web tech
+- 🧠 Wearing three hats daily: **Mentor · Developer · R&D Explorer**
+- ✍️ Writing technical breakdowns on [LinkedIn Articles](https://www.linkedin.com/in/lakshmi-narasimhan-developer/recent-activity/articles/)
+- 📩 Reach me at **lakshminarasimhan511@gmail.com**
 
-### 🛠️ Tech Stack – MERN Focused
+<br/>
 
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" />
-  </a>
-</p>
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 📊 GitHub Metrics
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,js,html,css,git,github,vscode,postman,figma&theme=dark" />
 
-#### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshminarasimhan273&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
-</p>
+</div>
 
-#### 🗂️ Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshminarasimhan273&layout=compact&theme=dark&hide_border=true" />
-</p>
+<br/>
 
----
+## 📊 GitHub Stats & Activity
 
-### 📽 Portfolio Walkthrough Video
+<div align="center">
 
-<p align="center">
-  <a href="https://youtu.be/n-zDrsJmNK0?si=FxDETmrWC9Q9jks1" target="_blank">
-    <img src="https://img.youtube.com/vi/n-zDrsJmNK0/0.jpg" alt="Lakshmi Narasimhan Portfolio Walkthrough" width="600"/>
-  </a>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LakshmiNarasimhan273&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&icon_color=7AA2F7&text_color=C0CAF5&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshmiNarasimhan273&theme=tokyonight&hide_border=true&background=0D1117&ring=BB9AF7&fire=F7768E&currStreakLabel=BB9AF7"/>
 
----
+<br/>
 
-<p align="center">
-  <b>"Code is not just syntax, it's strategy."</b><br/>
-  <i>Let's architect impactful products, one commit at a time.</i>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmiNarasimhan273&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=C0CAF5&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshmiNarasimhan273&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BB9AF7&line=7AA2F7&point=C0CAF5&area=true"/>
+
+</div>
+
+<br/>
+
+## 🏆 Achievements & Contributions
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LakshmiNarasimhan273&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+- 📦 Active across **MERN-stack repositories** spanning dashboards, CRUD systems, and full-stack apps
+- 🔥 Consistent contribution history — see live streak & activity graphs above
+- 🌱 Currently mentoring developers transitioning into full-stack roles
+- 🎯 Building in public via [Portfolio](https://lakshmi-narasimhan-portfolio.web.app/) and technical articles
+
+<br/>
+
+## 📽 Portfolio Walkthrough
+
+<div align="center">
+
+<a href="https://youtu.be/n-zDrsJmNK0?si=FxDETmrWC9Q9jks1" target="_blank">
+  <img src="https://img.youtube.com/vi/n-zDrsJmNK0/0.jpg" alt="Lakshmi Narasimhan Portfolio Walkthrough" width="550"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer"/>
+
+<b>"Code is not just syntax, it's strategy."</b><br/>
+<i>Let's architect impactful products, one commit at a time.</i>
+
+</div>
